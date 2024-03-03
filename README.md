@@ -1,1 +1,1 @@
-# website-view-responsive-ecommerce-Snikerin
+# responsive-website-view-Snikerin-ecommerce
